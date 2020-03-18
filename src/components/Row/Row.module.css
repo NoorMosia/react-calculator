@@ -1,0 +1,6 @@
+.Row {
+    display: flex;
+    background: rgb(6, 0, 20);
+    width: 100%;
+    height: 20%;
+}

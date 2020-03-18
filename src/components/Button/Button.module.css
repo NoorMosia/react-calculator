@@ -1,0 +1,28 @@
+.Button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    height: 100px;
+    background: rgb(122, 122, 122);
+    border: 1px solid #eee;
+    color: white;
+}
+.Button:active {
+    background: rgb(1, 2, 75);
+}
+
+.Operator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    height: 100px;
+    background: rgb(158, 0, 0);
+    border: 1px solid #eee;
+    color: white;
+}
+
+.Operator:active {
+    background: rgb(1, 2, 75);
+}

@@ -1,0 +1,14 @@
+.Wrapper {
+    display: flex;
+    justify-self: center;
+    flex-direction: column;
+    min-width: 350px;
+    background: rgb(0, 24, 70);
+}
+
+
+@media only screen and (max-width:720px){
+    .Wrapper {
+        width: 100%;
+    }
+}
